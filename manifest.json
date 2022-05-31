@@ -1,0 +1,20 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Quick connect",
+  "description": "pippo",
+  "developer_name": "Aldodo91",
+  "icon": "images/ico.svg",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "rem_fc",
+      "type": "keyword",
+      "name": "Remmina FC",
+      "description": "Quicly connect remote",
+      "default_value": "rem"
+    }
+  ]
+}
+
