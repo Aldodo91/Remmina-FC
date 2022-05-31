@@ -1,8 +1,8 @@
-A [Ulauncher extension](https://ext.ulauncher.io/-/github-leinardi-ulauncher-systemctl) to support the `systemctl` actions shutdown, reboot, suspend and hibernate.
+A [Ulauncher extension](https://ext.ulauncher.io/-/github-leinardi-ulauncher-systemctl) to quick connect to Rasberry via VNC - Remmina 
 
-![extension screenshot](https://raw.githubusercontent.com/Aldodo91/Connect/main/ExConnect.png)
 
-Icons are part of the [Faenza icon set by tiheum](https://tiheum.deviantart.com/art/Faenza-Icons-173323228).
+
+![](/home/aldo/.config/marktext/images/2022-05-31-19-59-44-image.png)
 
 This extension was inspired by ['Ulauncher Session Actions'](https://github.com/seqizz/ulauncher-session-actions) 
 
@@ -11,5 +11,5 @@ This extension was inspired by ['Ulauncher Session Actions'](https://github.com/
 Put this in 
 
 ```
-/home/aldo/.local/share/ulauncher/extensions/com.aldodo91.connect
+/home/aldo/.local/share/ulauncher/extensions/com.aldodo91.remmina
 ```
