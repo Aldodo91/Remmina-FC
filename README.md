@@ -1,8 +1,6 @@
 A [Ulauncher extension](https://ext.ulauncher.io/-/github-leinardi-ulauncher-systemctl) to quick connect to Rasberry via VNC - Remmina 
 
-
-
-![](/home/aldo/.config/marktext/images/2022-05-31-19-59-44-image.png)
+![](https://raw.githubusercontent.com/Aldodo91/Remmina-FC/main/exRemmina.png)
 
 This extension was inspired by ['Ulauncher Session Actions'](https://github.com/seqizz/ulauncher-session-actions) 
 
