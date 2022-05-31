@@ -26,14 +26,14 @@ class KeywordQueryEventListener(EventListener):
 
 def pi():
     return ExtensionResultItem(icon='images/ras.png',
-                               name='Connetti airDot',
+                               name='Connetti a Rasberry pi 3',
                                description='vnc connect rasberry',
                                on_enter=RunScriptAction("remmina -c /home/aldo/.local/share/remmina/group_vnc_rasberry_nano-server-ddns-net.remmina", None))
 
 
 def piMini():
     return ExtensionResultItem(icon='images/rasNano.png',
-                               name='Disconnetti airDot',
+                               name='Connetti a Rasberry pi nano (locale)',
                                description='vnc connect rasberry nano',
                                on_enter=RunScriptAction("remmina -c /home/aldo/.local/share/remmina/group_vnc_nano_192-168-1-69.remmina", None))
 
