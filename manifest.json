@@ -13,7 +13,7 @@
       "type": "keyword",
       "name": "Remmina FC",
       "description": "Quicly connect remote",
-      "default_value": "rem"
+      "default_value": "vnc"
     }
   ]
 }
